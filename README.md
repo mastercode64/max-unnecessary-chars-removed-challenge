@@ -7,7 +7,7 @@ Challenge solved using Java. The solution logic is in the file:
 
 Some tests scenarios can be found in:
 
-[src/main/java/Challenge.java](https://github.com/mastercode64/max-unnecessary-chars-removed-challenge/blob/main/src/test/java/ChallengeTests.java)
+[src/test/java/ChallengeTests.java](https://github.com/mastercode64/max-unnecessary-chars-removed-challenge/blob/main/src/test/java/ChallengeTests.java)
 
 
 ## How to run unit tests?
